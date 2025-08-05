@@ -48,8 +48,6 @@ Integrated with **Home Assistant dashboards** for historical trends and cost ana
 - ESP8266 / ESP32 microcontrollers
 - Tasmota firmware
 - MQTT & Home Assistant
-- Apple HomeKit integration
-- Retrofit smart home design
 
 ---
 
